@@ -1,0 +1,23 @@
+{
+  "house": "Kenya",
+  "stream": "North",
+  "student": [
+    {
+      "first_name": "Maxine",
+      "last_name": "Mwanda",
+      "age": 23,
+      "gender": "Female",
+      "eye_color": "Brown",
+      "disability": "no"
+
+    },
+    {
+      "first_name": "Samson",
+      "last_name": "Rapando",
+      "age": 24,
+      "gender": "Male",
+      "eye_color": "Brown",
+      "disability": "no"
+    }
+  ]
+}
